@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "react-chat application backend",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "main": "index.js",
+  "author": "Akhlakur Rahman",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4",
+    "socket.io": "^2.3.0"
+  }
+}
